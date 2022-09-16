@@ -3,7 +3,7 @@ import java.util.*; // contains Collections framework
 import java.lang.Math;
 // don't change the name of this class
 // you can add inner classes if needed
-class Main 
+class RmsOfArray
 {
 	static double rmsValue(int arr[], int n)
 	{
